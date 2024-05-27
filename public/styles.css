@@ -1,0 +1,37 @@
+h1{
+    background-attachment: fixed;
+    background-color: black;
+    color:aliceblue;
+    text-align:center;
+    padding:75px;
+}
+em{
+    background-color:blueviolet;
+    padding: 5px;
+}
+img{
+    width:200px; 
+    height:200px;
+}
+#meme{
+    border-radius:100px;
+}
+.red-text{
+    padding:6px;
+    background-color:aqua;
+    border-color:aqua;
+}
+#new{
+    padding:15px;
+    background-color:rgb(218, 22, 22)
+    ;border-radius:20px;
+}
+.ming{
+    background-color:aliceblue;
+    color:black;
+    font-size:x-large;
+}
+.yes{
+    width:200px;
+    height:200px;
+}
